@@ -1,89 +1,79 @@
 ---
 layout: cv
 title: Isaac Newtons's CV
+editor: 
+  markdown: 
+    wrap: 72
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# CAMILA RAMIREZ SUAREZ
 
+385 457 9947 \| camilaramirezsuarez2086\@gmail.com \|
+www.linkedin.com/in/camila ramirez suarez
 
-## Currently
+## EDUCATION Bachelor of Science September
 
-Standing on the shoulders of giants
+2022 - December 2026 Brigham Young University - Idaho
 
-### Specialized in
+• BYU-Idaho Scholarship 2023-2025
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+• Member, Data Science Society
 
+## EXPERIENCE
 
-### Research interests
+### Data Analyst - Institutional Data & Analysis Services October 2025
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+• Utilizing SQL, Excel, and Power BI to create dashboards and visual
+summaries of key performance indicators
 
+• Extracting, cleaning, and analyzing large institutional datasets using
+SQL and Excel to support decision-making across multiple departments
 
-## Education
+• Appling statistical methods to identify patterns and insights in large
+student and operational datasets. • Collaborating with a
+cross-functional team of analysts, IT developers, and institutional
+leaders to standardize data definitions across 10+ departments,
+enhancing reporting accuracy and consistency
 
-`1654-1660`
-__The King's School, Grantham.__
+### Teaching Assistant - Data Science Department April 2025 -
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+• Designed ITM 295 course structure with 12 modules and rubrics,
+restructuring curriculum delivery for 100+ students/semester
 
-- Sizar
+• Developed course website, increasing accessibility and reducing
+student navigation issues by 30%
 
-`1667 - death`
-__Trinity College, Cambridge__
+• Centralized resources and automated workflows, cutting faculty prep
+time by 20%
 
-- Fellow
+### Research Assistant - Cancer Genomics Statistical Analysis January -
 
+• Analyzed 500+ genomic datasets in R, identifying significant
+correlations to guide research outcomes • Produced 15+ visualizations
+and reports used in a peer-reviewed academic manuscript
 
+• Coordinated with 4 researchers to align deliverables with project
+deadlines
 
-## Awards
+### Independent Researcher - International Baccalaureate 2020-2022
 
-`2012`
-President, *Royal Society*, London, UK
+• Led 2-year biology research project, securing \$7,000 in competitive
+funding
 
-Associate, *French Academy of Science*, Paris, France
+• Managed 200+ trials with full data collection, analysis, and
+interpretation
 
+• Presented findings to 10+ evaluators, earning top scores and Summa Cum
+Laude distinction
 
+## PROJECTS
 
-## Publications
+Applied Data Science & Visualization Projects\
+• Cleaned, transformed, and analyzed real-world datasets using R to
+answer open-ended analytical questions
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+• Designed data visualizations emphasizing clarity, storytelling, and
+decision-making for non-technical audiences
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+• Developed portfolio-style dashboards and reports summarizing key
+insights and trends
